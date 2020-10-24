@@ -1,3 +1,11 @@
+## Preview
+
+Quote web application of the 10 most popular cryptocurrencies in the world developed with React. Other technologies used: HTML and CSS (Grid). To obtain data from cryptocurrencies, the application uses an API called CryptoCompare.
+
+![](https://i.imgur.com/d1OC24C.png)
+
+![](https://i.imgur.com/NSQ47YF.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
